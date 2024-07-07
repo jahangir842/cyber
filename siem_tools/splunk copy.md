@@ -1,6 +1,3 @@
-Sure! Here is a detailed guide to using Splunk in Markdown format:
-
-```markdown
 # Splunk
 
 ## Description
@@ -19,7 +16,7 @@ sudo dpkg -i splunk-package-name.deb
 
 # For a .tgz package
 sudo tar xvzf splunk-package-name.tgz -C /opt
-```
+
 
 ### Step 3: Start Splunk
 After installation, start Splunk:
